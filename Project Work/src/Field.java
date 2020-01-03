@@ -1,8 +1,4 @@
 /*
- * TIEVA31 Principles of Programming Graphical User Interfaces 2018 - 2019
- * Project work
- * Lassi Kyöstilä, 428001
- *
  * A class to create the field and the players
  */
 import java.awt.BasicStroke;
