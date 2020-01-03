@@ -1,8 +1,4 @@
 /*
- * TIEVA31 Principles of Programming Graphical User Interfaces 2018 - 2019
- * Project work
- * Lassi Kyöstilä, 428001
- *
  * This class works as a user interface of the software
  */
 import java.awt.Color;
